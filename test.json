@@ -1,0 +1,3127 @@
+{
+    "start_index": 0,
+    "items": [
+        {
+            "description": "04153343 - Dissolved on 21 February 2017",
+            "company_status": "dissolved",
+            "address": {
+                "address_line_1": "Aldersgate Street",
+                "postal_code": "EC1A 4AB",
+                "premises": "150 ",
+                "locality": "London"
+            },
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "title": "FINANCIAL LIMITED",
+            "date_of_cessation": "2017-02-21",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2001-02-02",
+            "links": {
+                "self": "/company/04153343"
+            },
+            "address_snippet": "150  Aldersgate Street, London, EC1A 4AB",
+            "company_number": "04153343",
+            "company_type": "ltd"
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "FINANCIAL ",
+            "matches": {
+                "snippet": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "1982-11-01",
+            "address_snippet": "C/O Castle Group Limited Salter Road, Eastfield, Scarborough, England, YO11 3UZ",
+            "links": {
+                "self": "/company/01674821"
+            },
+            "company_number": "01674821",
+            "company_type": "ltd",
+            "description": "01674821 - Incorporated on  1 November 1982",
+            "company_status": "active",
+            "address": {
+                "locality": "Scarborough",
+                "country": "England",
+                "postal_code": "YO11 3UZ",
+                "premises": "C/O Castle Group Limited Salter Road",
+                "address_line_1": "Eastfield"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "ENVIROMETRICS LIMITED"
+        },
+        {
+            "links": {
+                "self": "/officers/IdjrmG8cJG_QLOnpZYMITduv84c/appointments"
+            },
+            "address_snippet": "Olympic House, 196 The Broadway, Wimbledon, London, United Kingdom, United Kingdom, SW19 1RY",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "snippet": "",
+            "kind": "searchresults#officer",
+            "title": "FINANCIAL PROFESSIONAL SUPPORT SERVICES LIMITED",
+            "appointment_count": 0,
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "address": {
+                "locality": "London",
+                "region": "United Kingdom",
+                "country": "United Kingdom",
+                "postal_code": "SW19 1RY",
+                "premises": "Olympic House",
+                "address_line_1": "196 The Broadway",
+                "address_line_2": "Wimbledon"
+            },
+            "description": "Total number of appointments 0"
+        },
+        {
+            "kind": "searchresults#officer",
+            "snippet": "",
+            "address_snippet": "Palm Grove House, P.O. Box 438, Road Town, Tortola, British Virgin Islands, VG1110",
+            "links": {
+                "self": "/officers/bWzRC1WTXGpoEl474LIFiEaBvKE/appointments"
+            },
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "address": {
+                "address_line_2": "Road Town, Tortola",
+                "address_line_1": "P.O. Box 438",
+                "premises": "Palm Grove House",
+                "postal_code": "VG1110",
+                "country": "British Virgin Islands"
+            },
+            "description": "Total number of appointments 0",
+            "appointment_count": 0,
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "title": "FINANCIAL ADMINISTRATORS LIMITED"
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#officer",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "27 Old Gloucester Street, London, WC1N 3XX",
+            "links": {
+                "self": "/officers/rq1hJPu57sjiykN-8w_8WYMWhxI/appointments"
+            },
+            "description": "Total number of appointments 0",
+            "address": {
+                "locality": "London",
+                "address_line_1": "Old Gloucester Street",
+                "premises": "27",
+                "postal_code": "WC1N 3XX"
+            },
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "appointment_count": 0,
+            "title": "FINANCIAL MANAGEMENT RESOURCES (UK) LIMITED"
+        },
+        {
+            "title": "FINANCIAL PROFESSIONAL SUPPORT SERVICES LIMITED",
+            "appointment_count": 0,
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "description": "Total number of appointments 0",
+            "address": {
+                "locality": "London",
+                "region": "Wimbledon",
+                "address_line_1": "Olympic House, 196 The Broadway",
+                "postal_code": "SW19 1RY"
+            },
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "links": {
+                "self": "/officers/ArujuQ5fTdi5_xjHJq7buqMjKOU/appointments"
+            },
+            "address_snippet": "Olympic House, 196 The Broadway, London, Wimbledon, SW19 1RY",
+            "kind": "searchresults#officer",
+            "snippet": ""
+        },
+        {
+            "address_snippet": "The Old Church, ,, Quicks Road, Wimbledon, London, U.K., SW19 1EX",
+            "links": {
+                "self": "/officers/3TAzYJTVhKkzWkHQWOYHnl1j7VE/appointments"
+            },
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "snippet": "",
+            "kind": "searchresults#officer",
+            "title": "FINANCIAL PROFESSIONAL SUPPORT SERVICES ",
+            "address": {
+                "country": "U.K.",
+                "region": "London",
+                "locality": "Wimbledon",
+                "premises": "The Old Church",
+                "postal_code": "SW19 1EX",
+                "address_line_2": "Quicks Road",
+                "address_line_1": ","
+            },
+            "description": "Total number of appointments 0",
+            "appointment_count": 0,
+            "description_identifiers": [
+                "appointment-count"
+            ]
+        },
+        {
+            "address": {
+                "country": "United Kingdom",
+                "region": "Essex",
+                "locality": "Southend",
+                "care_of": "ANTONY J. HOLDSWORTH & CO",
+                "address_line_1": "37 Clarence Street",
+                "premises": "Estuary House",
+                "postal_code": "SS1 1BH"
+            },
+            "description": "Total number of appointments 0",
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "appointment_count": 0,
+            "title": "FINANCIAL PORTALS LTD",
+            "snippet": "",
+            "kind": "searchresults#officer",
+            "links": {
+                "self": "/officers/ReGSdvoiKeyT6KBYlpnHiOnYMAk/appointments"
+            },
+            "address_snippet": "ANTONY J. HOLDSWORTH & CO, Estuary House, 37 Clarence Street, Southend, Essex, United Kingdom, SS1 1BH",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            }
+        },
+        {
+            "title": "FINANCIAL SOLUTIONS & SERVICES LTD",
+            "appointment_count": 0,
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "description": "Total number of appointments 0",
+            "address": {
+                "address_line_1": "Uttoxeter New Road",
+                "postal_code": "DE22 3WZ",
+                "premises": "The College Business Centre",
+                "locality": "Derby",
+                "region": "Derbyshire",
+                "country": "United Kingdom"
+            },
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "links": {
+                "self": "/officers/-cpYhzrC846HXSYqSzuKQ8xtIVc/appointments"
+            },
+            "address_snippet": "The College Business Centre, Uttoxeter New Road, Derby, Derbyshire, United Kingdom, DE22 3WZ",
+            "snippet": "",
+            "kind": "searchresults#officer"
+        },
+        {
+            "description": "Total number of appointments 0",
+            "address": {
+                "address_line_1": "Millfields Road",
+                "premises": "Dudley House",
+                "postal_code": "WV4 6JE",
+                "country": "United Kingdom",
+                "locality": "Wolverhampton"
+            },
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "appointment_count": 0,
+            "title": "FINANCIAL NEGOTIATION LIMITED",
+            "snippet": "",
+            "kind": "searchresults#officer",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "address_snippet": "Dudley House, Millfields Road, Wolverhampton, United Kingdom, WV4 6JE",
+            "links": {
+                "self": "/officers/LHAaNCRUEa4ghimdKAGlRHRNVno/appointments"
+            }
+        },
+        {
+            "links": {
+                "self": "/officers/3KxqgYN4R-lCSylJ4EDdurUCwoU/appointments"
+            },
+            "address_snippet": "12 Woodside Drive, Derby, Derbyshire, England, DE22 2UN",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "kind": "searchresults#officer",
+            "snippet": "",
+            "title": "FINANCIAL SOLUTIONS & SERVICES LTD",
+            "address": {
+                "address_line_1": "Woodside Drive",
+                "postal_code": "DE22 2UN",
+                "premises": "12",
+                "locality": "Derby",
+                "region": "Derbyshire",
+                "country": "England"
+            },
+            "description": "Total number of appointments 0",
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "appointment_count": 0
+        },
+        {
+            "address": {
+                "locality": "Derby",
+                "region": "Derbyshire",
+                "country": "United Kingdom",
+                "postal_code": "DE22 2UN",
+                "premises": "12",
+                "address_line_1": "Woodside Drive",
+                "address_line_2": "Allestree"
+            },
+            "description": "Total number of appointments 0",
+            "appointment_count": 0,
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "title": "FINANCIAL SOLUTIONS & SERVICES LTD",
+            "kind": "searchresults#officer",
+            "snippet": "",
+            "address_snippet": "12 Woodside Drive, Allestree, Derby, Derbyshire, United Kingdom, DE22 2UN",
+            "links": {
+                "self": "/officers/CJeQQlpcXjX-A1r4BRSBfk-KXVE/appointments"
+            },
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            }
+        },
+        {
+            "address_snippet": "42a, High Street, Sutton Coldfield, England, B72 1UJ",
+            "links": {
+                "self": "/officers/_w7bCTwiXogDdqQYIKQIV3NGRow/appointments"
+            },
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "snippet": "",
+            "kind": "searchresults#officer",
+            "title": "FINANCIAL MANAGEMENT SOLUTIONS UK LIMITED",
+            "appointment_count": 0,
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "address": {
+                "locality": "Sutton Coldfield",
+                "country": "England",
+                "postal_code": "B72 1UJ",
+                "premises": "42a",
+                "address_line_1": "High Street"
+            },
+            "description": "Total number of appointments 0"
+        },
+        {
+            "kind": "searchresults#officer",
+            "snippet": "FINANCIAL PROFESSIONAL - BUSINESS PERFORMANCE COACHING ",
+            "links": {
+                "self": "/officers/Q5BXDZbvP4yZO7Xvn-h0KrT9LT0/appointments"
+            },
+            "address_snippet": "5th Floor 11 Leadenhall Street, London, England, EC3V 1LP",
+            "matches": {
+                "snippet": [
+                    1,
+                    9
+                ]
+            },
+            "appointment_count": 5,
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "address": {
+                "locality": "London",
+                "country": "England",
+                "postal_code": "EC3V 1LP",
+                "premises": "5th Floor",
+                "address_line_1": "11 Leadenhall Street"
+            },
+            "description": "Total number of appointments 5",
+            "title": "ACUITY PROFESSIONAL (WILLS & ESTATE PLANNING) LTD"
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "FINANCIAL FM ",
+            "matches": {
+                "snippet": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2015-05-26",
+            "links": {
+                "self": "/company/09608252"
+            },
+            "address_snippet": "Unit 3  Ashton Gate, Ashton Road, Romford, England, RM3 8UF",
+            "company_type": "ltd",
+            "company_number": "09608252",
+            "description": "09608252 - Incorporated on 26 May 2015",
+            "address": {
+                "postal_code": "RM3 8UF",
+                "premises": "Unit 3 ",
+                "address_line_1": "Ashton Gate",
+                "address_line_2": "Ashton Road",
+                "locality": "Romford",
+                "country": "England"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "CRT PROPERTY SERVICES LIMITED"
+        },
+        {
+            "company_type": "ltd",
+            "company_number": "09971538",
+            "matches": {
+                "snippet": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2016-01-26",
+            "address_snippet": "37  Battersea Square, First Floor, London, England, SW11 3RA",
+            "links": {
+                "self": "/company/09971538"
+            },
+            "kind": "searchresults#company",
+            "snippet": "FINANCIAL CRIME SERVICES ",
+            "title": "FCS COMPLIANCE LTD",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "09971538 - Incorporated on 26 January 2016",
+            "address": {
+                "locality": "London",
+                "country": "England",
+                "postal_code": "SW11 3RA",
+                "premises": "37 ",
+                "address_line_1": "Battersea Square",
+                "address_line_2": "First Floor"
+            },
+            "company_status": "active"
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "06764494 - Incorporated on  3 December 2008",
+            "company_status": "active",
+            "address": {
+                "locality": "London",
+                "address_line_1": "Kensington High Street",
+                "address_line_2": "Suite 69",
+                "postal_code": "W8 6ND",
+                "premises": "272 "
+            },
+            "title": "FINANCIAL ACADEMIC DERIVATIVES LIMITED",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_number": "06764494",
+            "company_type": "ltd",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2008-12-03",
+            "links": {
+                "self": "/company/06764494"
+            },
+            "address_snippet": "272  Kensington High Street, Suite 69, London, W8 6ND"
+        },
+        {
+            "links": {
+                "self": "/company/03335658"
+            },
+            "address_snippet": "6  Galahad Close, Slough, SL1 9DT",
+            "date_of_creation": "1997-03-19",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "company_type": "ltd",
+            "company_number": "03335658",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ACCOUNTANCY SERVICES LTD",
+            "company_status": "active",
+            "address": {
+                "locality": "Slough",
+                "postal_code": "SL1 9DT",
+                "premises": "6 ",
+                "address_line_1": "Galahad Close"
+            },
+            "description": "03335658 - Incorporated on 19 March 1997",
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "09312094 - Incorporated on 14 November 2014",
+            "company_status": "active",
+            "address": {
+                "locality": "Newcastle Upon Tyne",
+                "country": "England",
+                "address_line_1": "Beaconsfield Street",
+                "postal_code": "NE4 5JN",
+                "premises": "58 "
+            },
+            "title": "FINANCIAL ACCOUNTANT CONSULTANCY SERVICES LIMITED",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "company_type": "ltd",
+            "company_number": "09312094",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2014-11-14",
+            "address_snippet": "58  Beaconsfield Street, Newcastle Upon Tyne, England, NE4 5JN",
+            "links": {
+                "self": "/company/09312094"
+            }
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_number": "05526540",
+            "company_type": "ltd",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2005-08-03",
+            "address_snippet": "163  Kings Hill Avenue, Northolt, Middx, UB5 6NY",
+            "links": {
+                "self": "/company/05526540"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "05526540 - Incorporated on  3 August 2005",
+            "company_status": "active",
+            "address": {
+                "address_line_1": "Kings Hill Avenue",
+                "address_line_2": "Northolt",
+                "postal_code": "UB5 6NY",
+                "premises": "163 ",
+                "locality": "Middx"
+            },
+            "title": "FINANCIAL ACCOUNTANTS LIMITED"
+        },
+        {
+            "address": {
+                "locality": "London",
+                "country": "England",
+                "address_line_1": "Floor Office",
+                "address_line_2": "207 Regent Street",
+                "postal_code": "W1B 3HH",
+                "premises": "3rd "
+            },
+            "company_status": "active",
+            "description": "13078142 - Incorporated on 11 December 2020",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ACCOUNTING ADVICE LTD",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "address_snippet": "3rd  Floor Office, 207 Regent Street, London, England, W1B 3HH",
+            "links": {
+                "self": "/company/13078142"
+            },
+            "date_of_creation": "2020-12-11",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "company_number": "13078142",
+            "company_type": "ltd"
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "12706463 - Incorporated on 30 June 2020",
+            "address": {
+                "locality": "London",
+                "region": "Greater London",
+                "country": "United Kingdom",
+                "postal_code": "WC2H 9JQ",
+                "premises": "71-75 ",
+                "address_line_1": "Shelton Street"
+            },
+            "company_status": "active",
+            "title": "FINANCIAL ACCOUNTING BUSINESS SOLUTIONS LTD",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_type": "ltd",
+            "company_number": "12706463",
+            "date_of_creation": "2020-06-30",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "links": {
+                "self": "/company/12706463"
+            },
+            "address_snippet": "71-75  Shelton Street, London, Greater London, United Kingdom, WC2H 9JQ"
+        },
+        {
+            "title": "FINANCIAL ACCOUNTING SERVICES LIMITED",
+            "company_status": "active",
+            "address": {
+                "locality": "United Kingdom",
+                "region": "West Midlands",
+                "address_line_1": "Solihull",
+                "postal_code": "B92 7HX",
+                "premises": "Virginia House 56 Warwick Road"
+            },
+            "description": "01982830 - Incorporated on 27 January 1986",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "links": {
+                "self": "/company/01982830"
+            },
+            "address_snippet": "Virginia House 56 Warwick Road Solihull, United Kingdom, West Midlands, B92 7HX",
+            "date_of_creation": "1986-01-27",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "company_type": "ltd",
+            "company_number": "01982830",
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "links": {
+                "self": "/company/05036798"
+            },
+            "address_snippet": "3  Redwood Close, Sutton Coldfield, West Midlands, B74 3JQ",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2004-02-06",
+            "company_type": "ltd",
+            "company_number": "05036798",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "title": "FINANCIAL ACCOUNTING SOLUTIONS LIMITED",
+            "company_status": "active",
+            "address": {
+                "locality": "West Midlands",
+                "address_line_1": "Redwood Close",
+                "address_line_2": "Sutton Coldfield",
+                "postal_code": "B74 3JQ",
+                "premises": "3 "
+            },
+            "description": "05036798 - Incorporated on  6 February 2004",
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_number": "10603577",
+            "company_type": "ltd",
+            "links": {
+                "self": "/company/10603577"
+            },
+            "address_snippet": "381  Bolton Road, Bury, United Kingdom, BL8 2PH",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2017-02-06",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "address": {
+                "locality": "Bury",
+                "country": "United Kingdom",
+                "address_line_1": "Bolton Road",
+                "postal_code": "BL8 2PH",
+                "premises": "381 "
+            },
+            "company_status": "active",
+            "description": "10603577 - Incorporated on  6 February 2017",
+            "title": "FINANCIAL ACCOUNTING (UK) LIMITED"
+        },
+        {
+            "description": "07044931 - Incorporated on 15 October 2009",
+            "address": {
+                "address_line_1": "Howberry Road",
+                "postal_code": "HA8 6SY",
+                "premises": "88 ",
+                "locality": "Edgware",
+                "region": "Middlesex"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ACCOUNTS LIMITED",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "date_of_creation": "2009-10-15",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "address_snippet": "88  Howberry Road, Edgware, Middlesex, HA8 6SY",
+            "links": {
+                "self": "/company/07044931"
+            },
+            "company_type": "ltd",
+            "company_number": "07044931"
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#company",
+            "date_of_creation": "2018-08-08",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "address_snippet": "71-75  Shelton Street, London, Greater London, United Kingdom, WC2H 9JQ",
+            "links": {
+                "self": "/company/11505004"
+            },
+            "company_number": "11505004",
+            "company_type": "ltd",
+            "description": "11505004 - Incorporated on  8 August 2018",
+            "company_status": "active",
+            "address": {
+                "address_line_1": "Shelton Street",
+                "postal_code": "WC2H 9JQ",
+                "premises": "71-75 ",
+                "locality": "London",
+                "country": "United Kingdom",
+                "region": "Greater London"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ACORNS LIMITED"
+        },
+        {
+            "company_type": "ltd",
+            "company_number": "05736736",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2006-03-09",
+            "links": {
+                "self": "/company/05736736"
+            },
+            "address_snippet": "3  Redman Court, Bell Street, Princes Risborough, Bucks, HP27 0AA",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ACTIVITIES LTD",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "05736736 - Incorporated on  9 March 2006",
+            "company_status": "active",
+            "address": {
+                "address_line_2": "Bell Street",
+                "address_line_1": "Redman Court",
+                "premises": "3 ",
+                "postal_code": "HP27 0AA",
+                "region": "Bucks",
+                "locality": "Princes Risborough"
+            }
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2020-10-04",
+            "links": {
+                "self": "/company/12926916"
+            },
+            "address_snippet": "9-11  High Beech Road, Lord Associates, Loughton, Essex, United Kingdom, IG10 4BN",
+            "company_number": "12926916",
+            "company_type": "ltd",
+            "description": "12926916 - Incorporated on  4 October 2020",
+            "company_status": "active",
+            "address": {
+                "address_line_1": "High Beech Road",
+                "address_line_2": "Lord Associates, Loughton",
+                "postal_code": "IG10 4BN",
+                "premises": "9-11 ",
+                "locality": "Essex",
+                "country": "United Kingdom"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ADDITIONS LIMITED"
+        },
+        {
+            "title": "FINANCIAL ADE LIMITED",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "12782150 - Incorporated on 30 July 2020",
+            "address": {
+                "address_line_1": "Mountnessing Road",
+                "postal_code": "CM12 9HA",
+                "premises": "132 ",
+                "locality": "Billericay",
+                "country": "United Kingdom",
+                "region": "Essex"
+            },
+            "company_status": "active",
+            "company_number": "12782150",
+            "company_type": "ltd",
+            "date_of_creation": "2020-07-30",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "links": {
+                "self": "/company/12782150"
+            },
+            "address_snippet": "132  Mountnessing Road, Billericay, Essex, United Kingdom, CM12 9HA",
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "title": "FINANCIAL ADMINISTRATION SERVICES LIMITED",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "address": {
+                "locality": "Tadworth",
+                "region": "Surrey",
+                "country": "United Kingdom",
+                "address_line_1": "Lower Kingswood",
+                "postal_code": "KT20 6RP",
+                "premises": "Beech Gate Millfield Lane"
+            },
+            "company_status": "active",
+            "description": "01629709 - Incorporated on 19 April 1982",
+            "company_type": "ltd",
+            "company_number": "01629709",
+            "links": {
+                "self": "/company/01629709"
+            },
+            "address_snippet": "Beech Gate Millfield Lane, Lower Kingswood, Tadworth, Surrey, United Kingdom, KT20 6RP",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "1982-04-19",
+            "kind": "searchresults#company",
+            "snippet": ""
+        },
+        {
+            "title": "FINANCIAL ADVICE & SERVICES LIMITED",
+            "company_status": "active",
+            "address": {
+                "premises": "Sterling House Concept Court",
+                "postal_code": "CT19 4RG",
+                "address_line_1": "Shearway Business Park",
+                "region": "Kent",
+                "locality": "Folkestone"
+            },
+            "description": "02568950 - Incorporated on 17 December 1990",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "links": {
+                "self": "/company/02568950"
+            },
+            "address_snippet": "Sterling House Concept Court, Shearway Business Park, Folkestone, Kent, CT19 4RG",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "1990-12-17",
+            "company_number": "02568950",
+            "company_type": "ltd",
+            "kind": "searchresults#company",
+            "snippet": ""
+        },
+        {
+            "title": "FINANCIAL ADVICE & SERVICES LIMITED",
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "appointment_count": 0,
+            "address": {
+                "address_line_2": "Shearway Road",
+                "address_line_1": "Concept Court",
+                "premises": "Sterling House",
+                "postal_code": "CT19 4RG",
+                "country": "United Kingdom",
+                "region": "Kent",
+                "locality": "Folkestone"
+            },
+            "description": "Total number of appointments 0",
+            "address_snippet": "Sterling House, Concept Court, Shearway Road, Folkestone, Kent, United Kingdom, CT19 4RG",
+            "links": {
+                "self": "/officers/PUXxx2KAhIWyxxafZvukJqYrbik/appointments"
+            },
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "kind": "searchresults#officer",
+            "snippet": ""
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_type": "ltd",
+            "company_number": "SC534914",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2016-05-09",
+            "links": {
+                "self": "/company/SC534914"
+            },
+            "address_snippet": "Sunnyside High Street, Freuchie, Cupar, Scotland, KY15 7EX",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "SC534914 - Incorporated on  9 May 2016",
+            "company_status": "active",
+            "address": {
+                "address_line_1": "Freuchie",
+                "postal_code": "KY15 7EX",
+                "premises": "Sunnyside High Street",
+                "locality": "Cupar",
+                "country": "Scotland"
+            },
+            "title": "FINANCIAL ADVICE & SUPPORT (FAS) LIMITED"
+        },
+        {
+            "address_snippet": "5  Albany Avenue, Eccleston Park, Prescot, England, L34 2QN",
+            "links": {
+                "self": "/company/13031635"
+            },
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2020-11-19",
+            "company_number": "13031635",
+            "company_type": "ltd",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ADVICE BUREAU LTD",
+            "address": {
+                "address_line_2": "Eccleston Park",
+                "address_line_1": "Albany Avenue",
+                "premises": "5 ",
+                "postal_code": "L34 2QN",
+                "country": "England",
+                "locality": "Prescot"
+            },
+            "company_status": "active",
+            "description": "13031635 - Incorporated on 19 November 2020",
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "address": {
+                "address_line_2": "Worcester",
+                "address_line_1": "Sansome Place",
+                "premises": "7 ",
+                "postal_code": "WR1 1UG",
+                "locality": "Worcestershire"
+            },
+            "company_status": "active",
+            "description": "04425184 - Incorporated on 25 April 2002",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ADVICE CENTRE LIMITED",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "links": {
+                "self": "/company/04425184"
+            },
+            "address_snippet": "7  Sansome Place, Worcester, Worcestershire, WR1 1UG",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2002-04-25",
+            "company_number": "04425184",
+            "company_type": "ltd"
+        },
+        {
+            "title": "FINANCIAL ADVICE CLAIMS LTD",
+            "description": "11362597 - Incorporated on 15 May 2018",
+            "address": {
+                "country": "England",
+                "locality": "Birmingham",
+                "address_line_2": "Kings Heath",
+                "address_line_1": "Heathfield Road",
+                "premises": "4 ",
+                "postal_code": "B14 7DB"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "date_of_creation": "2018-05-15",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "address_snippet": "4  Heathfield Road, Kings Heath, Birmingham, England, B14 7DB",
+            "links": {
+                "self": "/company/11362597"
+            },
+            "company_type": "ltd",
+            "company_number": "11362597",
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "",
+            "date_of_creation": "2012-12-10",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "links": {
+                "self": "/company/SC438531"
+            },
+            "address_snippet": "8  Rutland Square, Edinburgh, Midlothian, EH1 2AS",
+            "company_number": "SC438531",
+            "company_type": "ltd",
+            "description": "SC438531 - Dissolved on 22 September 2020",
+            "address": {
+                "postal_code": "EH1 2AS",
+                "premises": "8 ",
+                "address_line_1": "Rutland Square",
+                "locality": "Edinburgh",
+                "region": "Midlothian"
+            },
+            "company_status": "dissolved",
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "title": "FINANCIAL ADVICE CLAIMS EXPERTS LTD",
+            "date_of_cessation": "2020-09-22"
+        },
+        {
+            "company_number": "08190795",
+            "company_type": "ltd",
+            "links": {
+                "self": "/company/08190795"
+            },
+            "address_snippet": "41  Brunswick Road, Gloucester, England, GL1 1JS",
+            "date_of_creation": "2012-08-24",
+            "matches": {
+                "snippet": [
+                    12,
+                    20,
+                    48,
+                    56
+                ],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "kind": "searchresults#company",
+            "snippet": "ATTAINABLE FINANCIAL SOLUTIONS · MATHEW WATERS FINANCIAL ADVISORS ",
+            "title": "FINANCIAL ADVICE GROUP LIMITED",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "address": {
+                "postal_code": "GL1 1JS",
+                "premises": "41 ",
+                "address_line_1": "Brunswick Road",
+                "locality": "Gloucester",
+                "country": "England"
+            },
+            "company_status": "active",
+            "description": "08190795 - Incorporated on 24 August 2012"
+        },
+        {
+            "title": "FINANCIAL ADVICE HIGHLANDS & ISLANDS LTD",
+            "company_status": "active",
+            "address": {
+                "locality": "Inverness",
+                "country": "Scotland",
+                "postal_code": "IV2 6AT",
+                "premises": "Cuillins",
+                "address_line_1": "Slackbuie Way"
+            },
+            "description": "SC675944 - Incorporated on 29 September 2020",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "address_snippet": "Cuillins, Slackbuie Way, Inverness, Scotland, IV2 6AT",
+            "links": {
+                "self": "/company/SC675944"
+            },
+            "date_of_creation": "2020-09-29",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "company_number": "SC675944",
+            "company_type": "ltd",
+            "kind": "searchresults#company",
+            "snippet": ""
+        },
+        {
+            "title": "FINANCIAL ADVICE MADE EASY LIMITED",
+            "description": "09107734 - Incorporated on 30 June 2014",
+            "address": {
+                "premises": "Cornwall Buildings",
+                "postal_code": "B3 3QR",
+                "address_line_1": "45 Newhall Street",
+                "country": "England",
+                "locality": "Birmingham"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2014-06-30",
+            "links": {
+                "self": "/company/09107734"
+            },
+            "address_snippet": "Cornwall Buildings, 45 Newhall Street, Birmingham, England, B3 3QR",
+            "company_type": "ltd",
+            "company_number": "09107734",
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2005-03-01",
+            "address_snippet": "Haw Bank House, High Street, Cheadle, Cheshire, England, SK8 1AL",
+            "links": {
+                "self": "/company/05378813"
+            },
+            "company_type": "ltd",
+            "company_number": "05378813",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "title": "FINANCIAL ADVICE NETWORK LTD",
+            "description": "05378813 - Incorporated on  1 March 2005",
+            "company_status": "active",
+            "address": {
+                "locality": "Cheadle",
+                "country": "England",
+                "region": "Cheshire",
+                "address_line_1": "High Street",
+                "postal_code": "SK8 1AL",
+                "premises": "Haw Bank House"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "title": "FINANCIAL ADVICE SCOTLAND LTD",
+            "address": {
+                "country": "Scotland",
+                "locality": "Glasgow",
+                "premises": "48 ",
+                "postal_code": "G2 1BP",
+                "address_line_2": "West George Street",
+                "address_line_1": "Clyde Offices (2nd Floor)"
+            },
+            "company_status": "active",
+            "description": "SC636661 - Incorporated on 22 July 2019",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "links": {
+                "self": "/company/SC636661"
+            },
+            "address_snippet": "48  Clyde Offices (2nd Floor), West George Street, Glasgow, Scotland, G2 1BP",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2019-07-22",
+            "company_number": "SC636661",
+            "company_type": "ltd",
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#company",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2018-01-29",
+            "links": {
+                "self": "/company/11173827"
+            },
+            "address_snippet": "63  Charles Street, Milford Haven, Pembrokeshire, SA73 2HA",
+            "company_type": "ltd",
+            "company_number": "11173827",
+            "description": "11173827 - Incorporated on 29 January 2018",
+            "address": {
+                "address_line_1": "Charles Street",
+                "postal_code": "SA73 2HA",
+                "premises": "63 ",
+                "locality": "Milford Haven",
+                "region": "Pembrokeshire"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ADVICE SOLUTIONS LIMITED"
+        },
+        {
+            "description": "SC639875 - Incorporated on 27 August 2019",
+            "company_status": "active",
+            "address": {
+                "locality": "Glasgow",
+                "country": "Scotland",
+                "postal_code": "G2 1BP",
+                "premises": "48 ",
+                "address_line_1": "Clyde Offices (2nd Floor)",
+                "address_line_2": "West George Street"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ADVICE UK LTD",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "date_of_creation": "2019-08-27",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "links": {
+                "self": "/company/SC639875"
+            },
+            "address_snippet": "48  Clyde Offices (2nd Floor), West George Street, Glasgow, Scotland, G2 1BP",
+            "company_type": "ltd",
+            "company_number": "SC639875"
+        },
+        {
+            "description": "08088016 - Incorporated on 30 May 2012",
+            "company_status": "active",
+            "address": {
+                "locality": "Cheadle",
+                "country": "England",
+                "address_line_1": "High Street",
+                "postal_code": "SK8 1AL",
+                "premises": "Haw Bank House"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ADVICE WEBSITE LTD.",
+            "snippet": "FINANCIAL ADVICE NETWORK ",
+            "kind": "searchresults#company",
+            "date_of_creation": "2012-05-30",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": [
+                    1,
+                    9
+                ]
+            },
+            "links": {
+                "self": "/company/08088016"
+            },
+            "address_snippet": "Haw Bank House, High Street, Cheadle, England, SK8 1AL",
+            "company_number": "08088016",
+            "company_type": "ltd"
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "address": {
+                "locality": "Ferndown",
+                "country": "England",
+                "address_line_1": "9 Nimrod Way",
+                "postal_code": "BH21 7UH",
+                "premises": "Arena Business Centre"
+            },
+            "company_status": "active",
+            "description": "08940804 - Incorporated on 17 March 2014",
+            "title": "FINANCIAL ADVISER BOURNEMOUTH LIMITED",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_type": "ltd",
+            "company_number": "08940804",
+            "links": {
+                "self": "/company/08940804"
+            },
+            "address_snippet": "Arena Business Centre, 9 Nimrod Way, Ferndown, England, BH21 7UH",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2014-03-17"
+        },
+        {
+            "address": {
+                "country": "England",
+                "locality": "Ashby-De-La-Zouch",
+                "premises": "York House",
+                "postal_code": "LE65 2UG",
+                "address_line_1": "Smisby Road"
+            },
+            "company_status": "dissolved",
+            "description": "06374085 - Dissolved on 29 September 2020",
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "title": "FINANCIAL ADVISER CONNECTIONS LTD.",
+            "date_of_cessation": "2020-09-29",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "links": {
+                "self": "/company/06374085"
+            },
+            "address_snippet": "York House, Smisby Road, Ashby-De-La-Zouch, England, LE65 2UG",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2007-09-18",
+            "company_number": "06374085",
+            "company_type": "ltd"
+        },
+        {
+            "date_of_cessation": "2020-02-25",
+            "title": "FINANCIAL ADVISER CONNECTIONS (MIDLANDS) LTD",
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "company_status": "dissolved",
+            "address": {
+                "region": "Leicestershire",
+                "country": "United Kingdom",
+                "locality": "Ashby De La Zouch",
+                "address_line_1": "Tournament Way",
+                "premises": "Tournament House",
+                "postal_code": "LE65 2UU"
+            },
+            "description": "11922244 - Dissolved on 25 February 2020",
+            "company_type": "ltd",
+            "company_number": "11922244",
+            "address_snippet": "Tournament House, Tournament Way, Ashby De La Zouch, Leicestershire, United Kingdom, LE65 2UU",
+            "links": {
+                "self": "/company/11922244"
+            },
+            "date_of_creation": "2019-04-03",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "title": "FINANCIAL ADVISER CONNECTIONS NETWORK LTD",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "11998533 - Incorporated on 16 May 2019",
+            "address": {
+                "postal_code": "LE65 2UU",
+                "premises": "Tournament House,",
+                "address_line_1": "4, Tournament Way,",
+                "locality": "Ashby-De-La-Zouch",
+                "region": "Leicestershire",
+                "country": "United Kingdom"
+            },
+            "company_status": "active",
+            "company_type": "ltd",
+            "company_number": "11998533",
+            "date_of_creation": "2019-05-16",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "links": {
+                "self": "/company/11998533"
+            },
+            "address_snippet": "Tournament House,, 4, Tournament Way,, Ashby-De-La-Zouch, Leicestershire, United Kingdom, LE65 2UU",
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "12717786 - Incorporated on  3 July 2020",
+            "address": {
+                "locality": "Ferndown",
+                "country": "United Kingdom",
+                "region": "Dorset",
+                "address_line_1": "9 Nimrod Way",
+                "postal_code": "BH21 7UH",
+                "premises": "Arena Business Centre"
+            },
+            "company_status": "active",
+            "title": "FINANCIAL ADVISER DORSET LIMITED",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_number": "12717786",
+            "company_type": "ltd",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2020-07-03",
+            "address_snippet": "Arena Business Centre, 9 Nimrod Way, Ferndown, Dorset, United Kingdom, BH21 7UH",
+            "links": {
+                "self": "/company/12717786"
+            }
+        },
+        {
+            "company_type": "ltd",
+            "company_number": "12135377",
+            "address_snippet": "Ground Floor Blackbrook Gate 1 Blackbrook Business Park, Taunton, Somerset, United Kingdom, TA1 2PX",
+            "links": {
+                "self": "/company/12135377"
+            },
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2019-08-02",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ADVISER INTRODUCTION LIMITED",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "company_status": "active",
+            "address": {
+                "address_line_1": "Blackbrook Business Park",
+                "premises": "Ground Floor Blackbrook Gate 1",
+                "postal_code": "TA1 2PX",
+                "country": "United Kingdom",
+                "region": "Somerset",
+                "locality": "Taunton"
+            },
+            "description": "12135377 - Incorporated on  2 August 2019"
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "address": {
+                "address_line_1": "Thames Road",
+                "postal_code": "DA1 4QX",
+                "premises": "Financial Adviser Oggi Llp - 5308 Unit 8 Ggbg, Optima Park,",
+                "locality": "Dartford",
+                "country": "United Kingdom",
+                "region": "Kent"
+            },
+            "company_status": "active",
+            "description": "OC432283 - Incorporated on 24 June 2020",
+            "title": "FINANCIAL ADVISER OGGI LLP",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_number": "OC432283",
+            "company_type": "llp",
+            "address_snippet": "Financial Adviser Oggi Llp - 5308 Unit 8 Ggbg, Optima Park, Thames Road, Dartford, Kent, United Kingdom, DA1 4QX",
+            "links": {
+                "self": "/company/OC432283"
+            },
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2020-06-24"
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "",
+            "date_of_creation": "2009-12-16",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "links": {
+                "self": "/company/07106292"
+            },
+            "address_snippet": "4  Beeley View, Walton, Chesterfield, Derbyshire, England, S42 7HY",
+            "company_type": "ltd",
+            "company_number": "07106292",
+            "description": "07106292 - Dissolved on 25 February 2020",
+            "address": {
+                "postal_code": "S42 7HY",
+                "premises": "4 ",
+                "address_line_1": "Beeley View",
+                "address_line_2": "Walton",
+                "locality": "Chesterfield",
+                "region": "Derbyshire",
+                "country": "England"
+            },
+            "company_status": "dissolved",
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "title": "FINANCIAL ADVISER SERVICES LTD",
+            "date_of_cessation": "2020-02-25"
+        },
+        {
+            "links": {
+                "self": "/company/07512218"
+            },
+            "address_snippet": "Swift House, Ground Floor, 18 Hoffmanns Way, Chelmsford, Essex, England, CM1 1GU",
+            "date_of_creation": "2011-02-01",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "company_type": "ltd",
+            "company_number": "07512218",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ADVISER SUPPORT SERVICES LTD",
+            "date_of_cessation": "2020-03-10",
+            "address": {
+                "country": "England",
+                "region": "Essex",
+                "locality": "Chelmsford",
+                "address_line_1": "Ground Floor, 18 Hoffmanns Way",
+                "premises": "Swift House",
+                "postal_code": "CM1 1GU"
+            },
+            "company_status": "dissolved",
+            "description": "07512218 - Dissolved on 10 March 2020",
+            "description_identifier": [
+                "dissolved-on"
+            ]
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#company",
+            "links": {
+                "self": "/company/06539331"
+            },
+            "address_snippet": "438  Ley Street, Ilford, Essex, IG2 7BS",
+            "date_of_creation": "2008-03-19",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "company_number": "06539331",
+            "company_type": "ltd",
+            "company_status": "active",
+            "address": {
+                "region": "Essex",
+                "locality": "Ilford",
+                "premises": "438 ",
+                "postal_code": "IG2 7BS",
+                "address_line_1": "Ley Street"
+            },
+            "description": "06539331 - Incorporated on 19 March 2008",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ADVISOR LIMITED"
+        },
+        {
+            "title": "FINANCIAL ADVISOR LIMITED",
+            "description": "Total number of appointments 1",
+            "address": {
+                "country": "England",
+                "locality": "Brentwood",
+                "premises": "23",
+                "postal_code": "CM13 2PZ",
+                "address_line_2": "Hutton",
+                "address_line_1": "Newmans Drive"
+            },
+            "description_identifiers": [
+                "appointment-count"
+            ],
+            "appointment_count": 1,
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "address_snippet": "23 Newmans Drive, Hutton, Brentwood, England, CM13 2PZ",
+            "links": {
+                "self": "/officers/RzLdAM1jfTJCMX1c_t4e2JgGrdU/appointments"
+            },
+            "kind": "searchresults#officer",
+            "snippet": ""
+        },
+        {
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2019-05-22",
+            "links": {
+                "self": "/company/12010731"
+            },
+            "address_snippet": "438  Ley Street, Ilford, Essex, United Kingdom, IG2 7BS",
+            "company_type": "ltd",
+            "company_number": "12010731",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ADVISOR SERVICES LIMITED",
+            "description": "12010731 - Incorporated on 22 May 2019",
+            "company_status": "active",
+            "address": {
+                "locality": "Ilford",
+                "region": "Essex",
+                "country": "United Kingdom",
+                "address_line_1": "Ley Street",
+                "postal_code": "IG2 7BS",
+                "premises": "438 "
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "09023264 - Incorporated on  2 May 2014",
+            "company_status": "active",
+            "address": {
+                "country": "England",
+                "region": "Northamptonshire",
+                "locality": "Northampton",
+                "premises": "1 ",
+                "postal_code": "NN1 5AL",
+                "address_line_1": "Billing Road"
+            },
+            "title": "FINANCIAL ADVISORS MARKETING ACADEMY LTD",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_number": "09023264",
+            "company_type": "ltd",
+            "date_of_creation": "2014-05-02",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "1  Billing Road, Northampton, Northamptonshire, England, NN1 5AL",
+            "links": {
+                "self": "/company/09023264"
+            }
+        },
+        {
+            "title": "FINANCIAL ADVISORY GROUP LTD",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "12499662 - Incorporated on  5 March 2020",
+            "company_status": "active",
+            "address": {
+                "country": "England",
+                "locality": "London",
+                "premises": "208 ",
+                "postal_code": "E6 3RR",
+                "address_line_1": "High Street South"
+            },
+            "company_number": "12499662",
+            "company_type": "ltd",
+            "date_of_creation": "2020-03-05",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "links": {
+                "self": "/company/12499662"
+            },
+            "address_snippet": "208  High Street South, London, England, E6 3RR",
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "date_of_creation": "2014-08-29",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "First Floor Thavies Inn House, 3-4 Holborn Circus, London, EC1N 2HA",
+            "links": {
+                "self": "/company/09192948"
+            },
+            "company_type": "ltd",
+            "company_number": "09192948",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "title": "FINANCIAL ADVISORY SERVICES LIMITED",
+            "description": "09192948 - Incorporated on 29 August 2014",
+            "company_status": "active",
+            "address": {
+                "postal_code": "EC1N 2HA",
+                "premises": "First Floor Thavies Inn House",
+                "address_line_1": "3-4 Holborn Circus",
+                "locality": "London"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "12276925 - Incorporated on 23 October 2019",
+            "company_status": "active",
+            "address": {
+                "address_line_1": "Sydney Barnes Close",
+                "premises": "23 ",
+                "postal_code": "OL11 3DA",
+                "country": "United Kingdom",
+                "locality": "Rochdale"
+            },
+            "title": "FINANCIAL ADVISORY SERVICES AND TRAINING LTD",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_number": "12276925",
+            "company_type": "ltd",
+            "date_of_creation": "2019-10-23",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "23  Sydney Barnes Close, Rochdale, United Kingdom, OL11 3DA",
+            "links": {
+                "self": "/company/12276925"
+            }
+        },
+        {
+            "company_type": "ltd",
+            "company_number": "12861745",
+            "address_snippet": "Gemini House, 71 Park Road, Sutton Coldfield, United Kingdom, B73 6BT",
+            "links": {
+                "self": "/company/12861745"
+            },
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2020-09-07",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ADVISORY SOLUTIONS LTD",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "company_status": "active",
+            "address": {
+                "country": "United Kingdom",
+                "locality": "Sutton Coldfield",
+                "address_line_1": "71 Park Road",
+                "premises": "Gemini House",
+                "postal_code": "B73 6BT"
+            },
+            "description": "12861745 - Incorporated on  7 September 2020"
+        },
+        {
+            "company_number": "01807791",
+            "company_type": "ltd",
+            "links": {
+                "self": "/company/01807791"
+            },
+            "address_snippet": "8  Standish Street, Burnley, Lancashire, United Kingdom, BB11 1AP",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "1984-04-11",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "title": "FINANCIAL AFFAIRS LIMITED",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "company_status": "active",
+            "address": {
+                "address_line_1": "Standish Street",
+                "premises": "8 ",
+                "postal_code": "BB11 1AP",
+                "country": "United Kingdom",
+                "region": "Lancashire",
+                "locality": "Burnley"
+            },
+            "description": "01807791 - Incorporated on 11 April 1984"
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#company",
+            "date_of_creation": "2020-11-30",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "71-75  Shelton Street, London, Greater London, United Kingdom, WC2H 9JQ",
+            "links": {
+                "self": "/company/13051726"
+            },
+            "company_type": "ltd",
+            "company_number": "13051726",
+            "description": "13051726 - Incorporated on 30 November 2020",
+            "address": {
+                "locality": "London",
+                "region": "Greater London",
+                "country": "United Kingdom",
+                "address_line_1": "Shelton Street",
+                "postal_code": "WC2H 9JQ",
+                "premises": "71-75 "
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL AFRIK GROUP LTD"
+        },
+        {
+            "links": {
+                "self": "/company/09740166"
+            },
+            "address_snippet": "Manor House, 35 St. Thomas's Road, Chorley, Lancashire, United Kingdom, PR7 1HP",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2015-08-19",
+            "company_type": "ltd",
+            "company_number": "09740166",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "title": "FINANCIAL AGENT LIMITED",
+            "address": {
+                "address_line_1": "35 St. Thomas's Road",
+                "postal_code": "PR7 1HP",
+                "premises": "Manor House",
+                "locality": "Chorley",
+                "region": "Lancashire",
+                "country": "United Kingdom"
+            },
+            "company_status": "active",
+            "description": "09740166 - Incorporated on 19 August 2015",
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "title": "FINANCIAL AGREEMENT SOLUTIONS LIMITED",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "company_status": "active",
+            "address": {
+                "region": "Lancashire",
+                "locality": "Darwen",
+                "address_line_1": "Commercial Road Blackburn Interchange",
+                "premises": "St Andrews House 11 Dalton Court",
+                "postal_code": "BB3 0DG"
+            },
+            "description": "05603872 - Incorporated on 26 October 2005",
+            "company_number": "05603872",
+            "company_type": "ltd",
+            "address_snippet": "St Andrews House 11 Dalton Court Commercial Road Blackburn Interchange, Darwen, Lancashire, BB3 0DG",
+            "links": {
+                "self": "/company/05603872"
+            },
+            "date_of_creation": "2005-10-26",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "kind": "searchresults#company",
+            "snippet": ""
+        },
+        {
+            "date_of_creation": "2002-10-10",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "Alex House, Chapel Street, Salford, M3 5JZ",
+            "links": {
+                "self": "/company/04559164"
+            },
+            "company_type": "ltd",
+            "company_number": "04559164",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "title": "FINANCIAL AID LIMITED",
+            "description": "04559164 - Incorporated on 10 October 2002",
+            "company_status": "active",
+            "address": {
+                "locality": "Salford",
+                "postal_code": "M3 5JZ",
+                "premises": "Alex House",
+                "address_line_1": "Chapel Street"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "company_status": "dissolved",
+            "address": {
+                "address_line_1": "Hulse Avenue",
+                "premises": "100 ",
+                "postal_code": "IG11 9UP",
+                "region": "Essex",
+                "country": "United Kingdom",
+                "locality": "Barking"
+            },
+            "description": "11876338 - Dissolved on  5 January 2021",
+            "date_of_cessation": "2021-01-05",
+            "title": "FINANCIAL AID MANAGEMENT LTD",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "company_number": "11876338",
+            "company_type": "ltd",
+            "links": {
+                "self": "/company/11876338"
+            },
+            "address_snippet": "100  Hulse Avenue, Barking, Essex, United Kingdom, IG11 9UP",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2019-03-12"
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#company",
+            "address_snippet": "7  Churchfield Court, Barnsley, South Yorkshire, S70 2JT",
+            "links": {
+                "self": "/company/01794687"
+            },
+            "date_of_creation": "1984-02-24",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "company_number": "01794687",
+            "company_type": "ltd",
+            "company_status": "liquidation",
+            "address": {
+                "locality": "South Yorkshire",
+                "postal_code": "S70 2JT",
+                "premises": "7 ",
+                "address_line_1": "Churchfield Court",
+                "address_line_2": "Barnsley"
+            },
+            "description": "01794687 - Incorporated on 24 February 1984 - Liquidation",
+            "description_identifier": [
+                "incorporated-on",
+                "liquidation"
+            ],
+            "title": "FINANCIAL AID SERVICES LIMITED"
+        },
+        {
+            "links": {
+                "self": "/company/04565352"
+            },
+            "address_snippet": "The Old Barn, Off Wood Street, Swanley Village, Kent, BR8 7PA",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2002-10-17",
+            "company_type": "ltd",
+            "company_number": "04565352",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL AIMS LTD",
+            "company_status": "active",
+            "address": {
+                "postal_code": "BR8 7PA",
+                "premises": "The Old Barn",
+                "address_line_1": "Off Wood Street",
+                "locality": "Swanley Village",
+                "region": "Kent"
+            },
+            "description": "04565352 - Incorporated on 17 October 2002",
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "links": {
+                "self": "/company/03837936"
+            },
+            "address_snippet": "Second Floor, De Burgh House, Market Road, Wickford, Essex, England, SS12 0FD",
+            "date_of_creation": "1999-09-08",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "company_type": "ltd",
+            "company_number": "03837936",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ALAN LIMITED",
+            "company_status": "active",
+            "address": {
+                "locality": "Wickford",
+                "region": "Essex",
+                "country": "England",
+                "postal_code": "SS12 0FD",
+                "premises": "Second Floor, De Burgh House",
+                "address_line_1": "Market Road"
+            },
+            "description": "03837936 - Incorporated on  8 September 1999",
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "06258984 - Incorporated on 24 May 2007",
+            "company_status": "active",
+            "address": {
+                "locality": "Andover",
+                "region": "Hampshire",
+                "address_line_1": "Longparish",
+                "postal_code": "SP11 6QQ",
+                "premises": "Woodstock"
+            },
+            "title": "FINANCIAL ALCHEMY LIMITED",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "company_type": "ltd",
+            "company_number": "06258984",
+            "date_of_creation": "2007-05-24",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "Woodstock, Longparish, Andover, Hampshire, SP11 6QQ",
+            "links": {
+                "self": "/company/06258984"
+            }
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#company",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2012-03-20",
+            "links": {
+                "self": "/company/07997673"
+            },
+            "address_snippet": "Cottage 1 Bow Locks Gillender Street, London, E3 3JY",
+            "company_number": "07997673",
+            "company_type": "ltd",
+            "description": "07997673 - Incorporated on 20 March 2012",
+            "address": {
+                "locality": "London",
+                "premises": "Cottage 1",
+                "postal_code": "E3 3JY",
+                "address_line_2": "Bow Locks Gillender Street"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ALGEBRA LTD"
+        },
+        {
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2012-06-25",
+            "links": {
+                "self": "/company/08118252"
+            },
+            "address_snippet": "E2, King's Walk 19a, Knyveton Road, Bournemouth, United Kingdom, BH1 3QZ",
+            "company_type": "ltd",
+            "company_number": "08118252",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ANALYSIS LIMITED",
+            "description": "08118252 - Incorporated on 25 June 2012",
+            "company_status": "active",
+            "address": {
+                "country": "United Kingdom",
+                "locality": "Bournemouth",
+                "address_line_1": "19a, Knyveton Road",
+                "premises": "E2, King's Walk",
+                "postal_code": "BH1 3QZ"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "address": {
+                "country": "United Kingdom",
+                "locality": "Waltham Cross",
+                "address_line_1": "Foster Close",
+                "premises": "2 ",
+                "postal_code": "EN8 9RZ"
+            },
+            "company_status": "active",
+            "description": "11716146 - Incorporated on  6 December 2018",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ANALYSIS & ACCOUNTING SERVICES LTD.",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "links": {
+                "self": "/company/11716146"
+            },
+            "address_snippet": "2  Foster Close, Waltham Cross, United Kingdom, EN8 9RZ",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2018-12-06",
+            "company_type": "ltd",
+            "company_number": "11716146"
+        },
+        {
+            "date_of_creation": "2010-02-22",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "18  Lovatt Close, Tilehurst, Reading, RG31 5HG",
+            "links": {
+                "self": "/company/07164537"
+            },
+            "company_type": "ltd",
+            "company_number": "07164537",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL ANALYSIS AND CONSULTING LTD",
+            "description": "07164537 - Incorporated on 22 February 2010",
+            "company_status": "active",
+            "address": {
+                "address_line_1": "Lovatt Close",
+                "address_line_2": "Tilehurst",
+                "postal_code": "RG31 5HG",
+                "premises": "18 ",
+                "locality": "Reading"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2017-07-17",
+            "links": {
+                "self": "/company/10870005"
+            },
+            "address_snippet": "76  Bushey Grove Road, Bushey, United Kingdom, WD23 2GN",
+            "company_type": "ltd",
+            "company_number": "10870005",
+            "description": "10870005 - Incorporated on 17 July 2017",
+            "company_status": "active",
+            "address": {
+                "postal_code": "WD23 2GN",
+                "premises": "76 ",
+                "address_line_1": "Bushey Grove Road",
+                "locality": "Bushey",
+                "country": "United Kingdom"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ANALYSIS BUSHEY LTD"
+        },
+        {
+            "description": "06681884 - Incorporated on 27 August 2008",
+            "company_status": "active",
+            "address": {
+                "address_line_1": "Vaughan Road",
+                "postal_code": "AL5 4EE",
+                "premises": "Vaughan Chambers",
+                "locality": "Harpenden",
+                "region": "Hertfordshire"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ANALYSIS OF BUSINESS PERFORMANCE LIMITED",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2008-08-27",
+            "address_snippet": "Vaughan Chambers, Vaughan Road, Harpenden, Hertfordshire, AL5 4EE",
+            "links": {
+                "self": "/company/06681884"
+            },
+            "company_number": "06681884",
+            "company_type": "ltd"
+        },
+        {
+            "address": {
+                "locality": "Welling",
+                "region": "Kent",
+                "address_line_1": "Saltash Road",
+                "postal_code": "DA16 1HB",
+                "premises": "26 "
+            },
+            "company_status": "active",
+            "description": "07706795 - Incorporated on 15 July 2011",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL ANALYSIS SOLUTIONS LTD",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "links": {
+                "self": "/company/07706795"
+            },
+            "address_snippet": "26  Saltash Road, Welling, Kent, DA16 1HB",
+            "date_of_creation": "2011-07-15",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "company_number": "07706795",
+            "company_type": "ltd"
+        },
+        {
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "address": {
+                "address_line_1": "Bankside Lane",
+                "premises": "Bankside Hall",
+                "postal_code": "OL13 8GX",
+                "country": "United Kingdom",
+                "locality": "Bacup"
+            },
+            "company_status": "dissolved",
+            "description": "11365576 - Dissolved on 12 January 2021",
+            "date_of_cessation": "2021-01-12",
+            "title": "FINANCIAL ANALYST CONSULTING SERVICES LTD",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_type": "ltd",
+            "company_number": "11365576",
+            "links": {
+                "self": "/company/11365576"
+            },
+            "address_snippet": "Bankside Hall, Bankside Lane, Bacup, United Kingdom, OL13 8GX",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2018-05-16"
+        },
+        {
+            "title": "FINANCIAL ANALYSTS LIMITED",
+            "description": "04246968 - Incorporated on  5 July 2001",
+            "address": {
+                "locality": "Pinner",
+                "region": "Middlesex",
+                "address_line_1": "Sylvia Avenue",
+                "address_line_2": "Hatch End",
+                "postal_code": "HA5 4QW",
+                "premises": "27 "
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2001-07-05",
+            "address_snippet": "27  Sylvia Avenue, Hatch End, Pinner, Middlesex, HA5 4QW",
+            "links": {
+                "self": "/company/04246968"
+            },
+            "company_number": "04246968",
+            "company_type": "ltd",
+            "kind": "searchresults#company",
+            "snippet": ""
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_type": "ltd",
+            "company_number": "03359031",
+            "date_of_creation": "1997-04-23",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "address_snippet": "29  Chalkpit Lane, Oxted, Surrey, RH8 0NF",
+            "links": {
+                "self": "/company/03359031"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "03359031 - Incorporated on 23 April 1997",
+            "address": {
+                "postal_code": "RH8 0NF",
+                "premises": "29 ",
+                "address_line_1": "Chalkpit Lane",
+                "address_line_2": "Oxted",
+                "locality": "Surrey"
+            },
+            "company_status": "active",
+            "title": "FINANCIAL ANALYTICS LIMITED"
+        },
+        {
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2013-07-10",
+            "address_snippet": "Suite 201a  Cumberland House, Cumberland House 80 Scrubs Lane, London, NW10 6RF",
+            "links": {
+                "self": "/company/08603634"
+            },
+            "company_number": "08603634",
+            "company_type": "ltd",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "title": "FINANCIAL & ACCOUNTANCY SERVICES LTD",
+            "description": "08603634 - Incorporated on 10 July 2013",
+            "address": {
+                "locality": "London",
+                "postal_code": "NW10 6RF",
+                "premises": "Suite 201a ",
+                "address_line_1": "Cumberland House",
+                "address_line_2": "Cumberland House 80 Scrubs Lane"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#company",
+            "company_type": "ltd",
+            "company_number": "12282093",
+            "links": {
+                "self": "/company/12282093"
+            },
+            "address_snippet": "Suite 201a  Cumberland House 80 Scrubs Lane, London, United Kingdom, NW10 6RF",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2019-10-25",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "company_status": "active",
+            "address": {
+                "postal_code": "NW10 6RF",
+                "premises": "Suite 201a ",
+                "address_line_1": "Cumberland House 80 Scrubs Lane",
+                "locality": "London",
+                "country": "United Kingdom"
+            },
+            "description": "12282093 - Incorporated on 25 October 2019",
+            "title": "FINANCIAL & ACCOUNTANCY SOLUTIONS LTD"
+        },
+        {
+            "description": "11091616 - Dissolved on 21 January 2020",
+            "company_status": "dissolved",
+            "address": {
+                "locality": "London",
+                "postal_code": "N7 8JZ",
+                "premises": "Flat 240 ",
+                "address_line_1": "73 Holloway Road"
+            },
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "title": "FINANCIAL & BROKERAGE ADVICE SERVICE LIMITED",
+            "date_of_cessation": "2020-01-21",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "date_of_creation": "2017-12-01",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "Flat 240  73 Holloway Road, London, N7 8JZ",
+            "links": {
+                "self": "/company/11091616"
+            },
+            "company_type": "ltd",
+            "company_number": "11091616"
+        },
+        {
+            "description": "08610133 - Incorporated on 15 July 2013",
+            "address": {
+                "address_line_1": "8 Longford Street",
+                "premises": "30 ",
+                "postal_code": "NW1 3BR",
+                "country": "England",
+                "locality": "London"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL AND BUSINESS SOLUTIONS LTD",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2013-07-15",
+            "address_snippet": "30  8 Longford Street, London, England, NW1 3BR",
+            "links": {
+                "self": "/company/08610133"
+            },
+            "company_type": "ltd",
+            "company_number": "08610133"
+        },
+        {
+            "description": "11226709 - Incorporated on 27 February 2018",
+            "address": {
+                "address_line_2": "Covent Garden",
+                "address_line_1": "Shelton Street",
+                "premises": "71-75 ",
+                "postal_code": "WC2H 9JQ",
+                "country": "England",
+                "locality": "London"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL AND CAPITAL COMPANY LIMITED",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "date_of_creation": "2018-02-27",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "links": {
+                "self": "/company/11226709"
+            },
+            "address_snippet": "71-75  Shelton Street, Covent Garden, London, England, WC2H 9JQ",
+            "company_number": "11226709",
+            "company_type": "ltd"
+        },
+        {
+            "description": "08939250 - Incorporated on 14 March 2014",
+            "company_status": "active",
+            "address": {
+                "region": "North West England",
+                "country": "England",
+                "locality": "Manchester",
+                "premises": "48",
+                "postal_code": "M9 0PG",
+                "address_line_2": "Blackley",
+                "address_line_1": "Melverley Road"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL & CAPITAL TRUST PLC",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2014-03-14",
+            "links": {
+                "self": "/company/08939250"
+            },
+            "address_snippet": "48 Melverley Road, Blackley, Manchester, North West England, England, M9 0PG",
+            "company_type": "plc",
+            "company_number": "08939250"
+        },
+        {
+            "title": "FINANCIAL AND COMMERCIAL LTD.",
+            "description": "04872428 - Incorporated on 20 August 2003",
+            "company_status": "active",
+            "address": {
+                "country": "England",
+                "region": "Cheshire",
+                "locality": "Chester",
+                "address_line_1": "Tattenhall Lane",
+                "premises": "Willow Force",
+                "postal_code": "CH3 9NH"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "date_of_creation": "2003-08-20",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "address_snippet": "Willow Force, Tattenhall Lane, Chester, Cheshire, England, CH3 9NH",
+            "links": {
+                "self": "/company/04872428"
+            },
+            "company_type": "ltd",
+            "company_number": "04872428",
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#company",
+            "date_of_creation": "2005-02-04",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "links": {
+                "self": "/company/05352559"
+            },
+            "address_snippet": "102  Langdale House 11 Marshalsea Road, London, United Kingdom, SE1 1EN",
+            "company_number": "05352559",
+            "company_type": "ltd",
+            "description": "05352559 - Incorporated on  4 February 2005",
+            "company_status": "active",
+            "address": {
+                "country": "United Kingdom",
+                "locality": "London",
+                "premises": "102 ",
+                "postal_code": "SE1 1EN",
+                "address_line_1": "Langdale House 11 Marshalsea Road"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL & CORPORATE SOLUTIONS LIMITED"
+        },
+        {
+            "snippet": "",
+            "kind": "searchresults#company",
+            "date_of_creation": "2014-08-05",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "address_snippet": "80  Granville Road, Sevenoaks, TN13 1HA",
+            "links": {
+                "self": "/company/09161652"
+            },
+            "company_type": "ltd",
+            "company_number": "09161652",
+            "description": "09161652 - Incorporated on  5 August 2014",
+            "company_status": "active",
+            "address": {
+                "postal_code": "TN13 1HA",
+                "premises": "80 ",
+                "address_line_1": "Granville Road",
+                "locality": "Sevenoaks"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "title": "FINANCIAL AND CREDIT LIMITED"
+        },
+        {
+            "title": "FINANCIAL AND CREDIT GROUP LIMITED",
+            "description": "03875646 - Incorporated on  8 November 1999",
+            "address": {
+                "postal_code": "TN13 1HA",
+                "premises": "80",
+                "address_line_1": "Granville Road",
+                "address_line_2": "Sevenoaks",
+                "locality": "Kent"
+            },
+            "company_status": "active",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "date_of_creation": "1999-11-08",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "links": {
+                "self": "/company/03875646"
+            },
+            "address_snippet": "80 Granville Road, Sevenoaks, Kent, TN13 1HA",
+            "company_type": "ltd",
+            "company_number": "03875646",
+            "snippet": "",
+            "kind": "searchresults#company"
+        },
+        {
+            "title": "FINANCIAL AND CREDIT INSURANCE SERVICES LIMITED",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "address": {
+                "address_line_2": "Sevenoaks",
+                "address_line_1": "Granville Road",
+                "premises": "80 ",
+                "postal_code": "TN13 1HA",
+                "locality": "Kent"
+            },
+            "company_status": "active",
+            "description": "02494622 - Incorporated on 20 April 1990",
+            "company_number": "02494622",
+            "company_type": "ltd",
+            "links": {
+                "self": "/company/02494622"
+            },
+            "address_snippet": "80  Granville Road, Sevenoaks, Kent, TN13 1HA",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "1990-04-20",
+            "kind": "searchresults#company",
+            "snippet": ""
+        },
+        {
+            "company_number": "11636434",
+            "company_type": "ltd",
+            "links": {
+                "self": "/company/11636434"
+            },
+            "address_snippet": "17  Saxon  Avenue, Manchester, United Kingdom, M8 4QH",
+            "date_of_creation": "2018-10-23",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "kind": "searchresults#company",
+            "snippet": "",
+            "title": "FINANCIAL AND CUSTOMER FOCUSED SERVICES LTD",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "company_status": "active",
+            "address": {
+                "address_line_1": "Saxon  Avenue",
+                "postal_code": "M8 4QH",
+                "premises": "17 ",
+                "locality": "Manchester",
+                "country": "United Kingdom"
+            },
+            "description": "11636434 - Incorporated on 23 October 2018"
+        },
+        {
+            "kind": "searchresults#company",
+            "snippet": "",
+            "company_number": "08775739",
+            "company_type": "ltd",
+            "address_snippet": "5th  Floor Castlemead, Lower Castle Street, Bristol, United Kingdom, BS1 3AG",
+            "links": {
+                "self": "/company/08775739"
+            },
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "date_of_creation": "2013-11-14",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "address": {
+                "locality": "Bristol",
+                "country": "United Kingdom",
+                "address_line_1": "Floor Castlemead",
+                "address_line_2": "Lower Castle Street",
+                "postal_code": "BS1 3AG",
+                "premises": "5th "
+            },
+            "company_status": "active",
+            "description": "08775739 - Incorporated on 14 November 2013",
+            "title": "FINANCIAL & ENERGY TRADING SOLUTIONS LTD"
+        },
+        {
+            "title": "FINANCIAL AND FUTURE LIMITED",
+            "description": "09722381 - Incorporated on  8 August 2015",
+            "company_status": "active",
+            "address": {
+                "country": "England",
+                "locality": "London",
+                "address_line_1": "Mount Nod Road",
+                "premises": "77a ",
+                "postal_code": "SW16 2LJ"
+            },
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "date_of_creation": "2015-08-08",
+            "address_snippet": "77a  Mount Nod Road, London, England, SW16 2LJ",
+            "links": {
+                "self": "/company/09722381"
+            },
+            "company_type": "ltd",
+            "company_number": "09722381",
+            "kind": "searchresults#company",
+            "snippet": ""
+        },
+        {
+            "title": "FINANCIAL AND GENERAL LIMITED",
+            "address": {
+                "locality": "Brentwood",
+                "region": "Essex",
+                "address_line_1": "The Drive",
+                "postal_code": "CM13 3BE",
+                "premises": "Jupiter House Warley Hill Business Park"
+            },
+            "company_status": "liquidation",
+            "description": "00438426 - Incorporated on  7 July 1947 - Liquidation",
+            "description_identifier": [
+                "incorporated-on",
+                "liquidation"
+            ],
+            "links": {
+                "self": "/company/00438426"
+            },
+            "address_snippet": "Jupiter House Warley Hill Business Park, The Drive, Brentwood, Essex, CM13 3BE",
+            "date_of_creation": "1947-07-07",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": [
+                    1,
+                    9,
+                    30,
+                    38
+                ]
+            },
+            "company_number": "00438426",
+            "company_type": "ltd",
+            "snippet": "FINANCIAL AND GENERAL BANK · FINANCIAL & GENERAL SECURITIES ",
+            "kind": "searchresults#company"
+        },
+        {
+            "links": {
+                "self": "/company/01604169"
+            },
+            "address_snippet": "Jupiter House Warley Hill Business Park, The Drive, Brentwood, Essex, CM13 3BE",
+            "date_of_creation": "1981-12-15",
+            "matches": {
+                "title": [
+                    1,
+                    9
+                ],
+                "snippet": []
+            },
+            "company_type": "ltd",
+            "company_number": "01604169",
+            "snippet": "",
+            "kind": "searchresults#company",
+            "title": "FINANCIAL & GENERAL SECURITIES LIMITED",
+            "address": {
+                "region": "Essex",
+                "locality": "Brentwood",
+                "premises": "Jupiter House Warley Hill Business Park",
+                "postal_code": "CM13 3BE",
+                "address_line_1": "The Drive"
+            },
+            "company_status": "liquidation",
+            "description": "01604169 - Incorporated on 15 December 1981 - Liquidation",
+            "description_identifier": [
+                "incorporated-on",
+                "liquidation"
+            ]
+        },
+        {
+            "title": "FINANCIAL AND INVESTMENT SOLUTIONS LTD",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "address": {
+                "postal_code": "RM11 3AT",
+                "premises": "Coopers House",
+                "address_line_1": "Wingletye Lane",
+                "locality": "Hornchurch",
+                "region": "Essex"
+            },
+            "company_status": "active",
+            "description": "03317732 - Incorporated on 13 February 1997",
+            "company_type": "ltd",
+            "company_number": "03317732",
+            "address_snippet": "Coopers House, Wingletye Lane, Hornchurch, Essex, RM11 3AT",
+            "links": {
+                "self": "/company/03317732"
+            },
+            "date_of_creation": "1997-02-13",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    9
+                ]
+            },
+            "snippet": "",
+            "kind": "searchresults#company"
+        }
+    ],
+    "total_results": 42255,
+    "items_per_page": 100,
+    "page_number": 1,
+    "kind": "search#all"
+}
